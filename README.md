@@ -1,4 +1,31 @@
-## Hi there 👋
+## Hi there 👋, I'm Vivaan 👋
+
+## 👨‍💻 About Me
+* 🌱 Currently learning **Full Stack Web Development** and **Data Structures & Algorithms**
+* 💡 Interested in Software Engineering, Web Development, and Open Source
+* 🚀 Building projects to improve my skills and gain hands-on experience
+* 📚 Always learning new technologies and best practices
+* 🤝 Open to collaborating on interesting projects
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+* Java
+* JavaScript
+* Python
+* C++
+* HTML
+
+**Tools**
+
+* Git
+* GitHub
+* VS Code
+
+
+
+
 
 <!--
 **vivaanarora07/vivaanarora07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
